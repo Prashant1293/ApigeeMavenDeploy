@@ -103,7 +103,7 @@
     <profile>
       <id>test</id>
       <properties>
-        <org>natureboy</org>
+        <org>12ps93r-eval</org>
         <options>validate</options>
         <apigee.profile>test</apigee.profile>
         <apigee.env>test</apigee.env>
